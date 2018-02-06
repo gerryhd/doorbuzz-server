@@ -9,7 +9,13 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "express": "^4.16.2",
+    "express-vue": "^4.0.14",
+    "mongoose": "^4.13.6",
     "mqtt": "^2.14.0",
-    "node-telegram-bot-api": "^0.29.0"
+    "node-telegram-bot-api": "^0.29.0",
+    "sequelize": "^4.23.2",
+    "socket.io": "^2.0.4",
+    "sqlite3": "^3.1.13"
   }
 }
